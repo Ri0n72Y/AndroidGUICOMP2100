@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">GUIActivity4</string>
+    <string name="app_name">Act4</string>
+    <string name="hello_world">Hello, World!</string>
 </resources>
